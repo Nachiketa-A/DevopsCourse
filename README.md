@@ -38,6 +38,29 @@ To get logs: cd var  $var: cd log
 
 To get `back to home: cd ~
 
+To create a file in Linux: touch filename.txt
+
+To type directly on terminal: echo "type text"
+
+To check for data in file: cat file name
+
+To write something in file: echo "type text" > file name
+
+<img width="487" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/a4aefdd9-11fc-41fe-a0a2-62f583a6037b">
+
+To create a file in particular folder: cd foldername/
+
+To move file in folder: mv filename foldername
+
+<img width="383" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/9196f7af-adc9-4958-833a-c4b1a0e5034e">
+
+To check all commands used: history
+
+
+
+
+
+
 
 
 
