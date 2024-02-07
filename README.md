@@ -36,5 +36,8 @@ To get logs: cd var  $var: cd log
 
 <img width="853" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/60cff883-69a5-47a2-860b-b27e67708352">
 
+To get `back to home: cd ~
+
+
 
 
