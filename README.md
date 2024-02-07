@@ -20,3 +20,8 @@ To check current loggedin user: whoami
 <img width="299" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/27eae193-7e30-4926-b66c-422cde596f41">
 To get back from directory: cd ..
 To check which tools are installed on system:cd/bin   $bin: ls
+To get logs: cd var  $var: cd log
+<img width="853" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/60cff883-69a5-47a2-860b-b27e67708352">
+
+
+
