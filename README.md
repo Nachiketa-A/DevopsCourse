@@ -64,7 +64,37 @@ When we start linux linux get boot so all start up files are in boot, command fo
 
 <img width="474" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/eb289a24-930d-4968-b536-7d9f0f882b61">
 
+### We can also create a multiple folder and multiple files using loop
+
+<img width="897" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/3f9bbb91-31d7-409d-8666-bb452f5b4978">
+
+
 To give a path in particular folder: mkdir -p folder-name/folder-name/folder-name
+
+
+<img width="655" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/30ed2f42-5bab-4ae6-b5ab-77c51298f112">
+
+
+To get the name of the kernel: uname
+
+To get the version of the kernel: uname-r
+
+<img width="481" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/74346f6e-4b95-412c-86d2-690c1a0dc914">
+
+To remove all txt file: rm file`name*.txt
+
+To remove all folders: rm -r foldername*
+
+To rename a folder: mv old-folder-name new-folder-name
+
+<img width="694" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/89b43f3b-458e-4aff-84d7-2c25b9585f44">
+
+
+
+
+
+
+
 
 
 
