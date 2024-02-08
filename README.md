@@ -60,6 +60,15 @@ When we start linux linux get boot so all start up files are in boot, command fo
 
 <img width="507" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/acf8b18f-7c80-410b-8f7c-fc53f9bfb3e0">
 
+### We can create a multiple folder and multiple files at a same time using a same commands
+
+<img width="474" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/eb289a24-930d-4968-b536-7d9f0f882b61">
+
+To give a path in particular folder: mkdir -p folder-name/folder-name/folder-name
+
+
+
+
 
 
 
