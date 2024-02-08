@@ -56,6 +56,10 @@ To move file in folder: mv filename foldername
 
 To check all commands used: history
 
+When we start linux linux get boot so all start up files are in boot, command for that is:cd boot/   $boot:ls
+
+
+
 
 
 
