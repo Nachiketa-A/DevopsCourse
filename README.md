@@ -89,6 +89,44 @@ To rename a folder: mv old-folder-name new-folder-name
 
 <img width="694" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/89b43f3b-458e-4aff-84d7-2c25b9585f44">
 
+To copy from one folder to another: cp -r source-folder-name/destination-folder-name/
+
+To copy the content from folder to other one: cp -r copy-folder-name/* destination-folder-name/
+
+<img width="567" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/f13b0f27-9c69-4b6a-915a-c4468b99764c">
+
+## How to add new user in Linux
+
+### We cannot simply add the new user only superuser can add the new one
+
+To add user: sudo useradd username
+
+To create a folder of already added user: sudo mkdir username
+
+<img width="335" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/5368e255-410c-428a-9629-4bcf0aa52555">
+
+
+To add user and also need to create a folder of an user: sudo useradd -m username
+
+<img width="512" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/62b87d48-e353-4f6d-bf25-0056c1c8df16">
+
+### To access a new user we need to create a password
+
+To create a password for new user: sudo passwd username
+
+To switch the user: su username
+
+To get back to previous user: exit
+
+<img width="466" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/8b74a999-e41b-4ac0-86e4-9f3e8cbc6343">
+
+
+
+
+
+
+
+
 
 
 
