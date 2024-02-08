@@ -1,5 +1,5 @@
 # DevopsCourse
-# # Linux Fundamentals
+## Linux Fundamentals
 
 # # # Linux(operating system)
 Linux is an open source. It allows multiuser and multitasking with powerfull shell and multiple flavors/multiple linux types(Eg:ubuntu, redhat,fedora,kali linux,etc).
