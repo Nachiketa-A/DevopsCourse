@@ -58,6 +58,9 @@ To check all commands used: history
 
 When we start linux linux get boot so all start up files are in boot, command for that is:cd boot/   $boot:ls
 
+<img width="507" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/acf8b18f-7c80-410b-8f7c-fc53f9bfb3e0">
+
+
 
 
 
