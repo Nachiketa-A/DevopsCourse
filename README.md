@@ -120,6 +120,25 @@ To get back to previous user: exit
 
 <img width="466" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/8b74a999-e41b-4ac0-86e4-9f3e8cbc6343">
 
+To see details of file,directory or folder: ls -la
+
+### Permission details:
+
+  **          **    user         other**
+                  |            |
+       **d       rwx   rwx    rwx
+         |              |
+     file type       group**
+
+r:read
+w:write
+x:execute
+
+To view an hidden file: ls -a
+
+<img width="442" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/abecd8f6-f0bb-4cf0-9c3b-f6d91336b400">
+
+
 
 
 
