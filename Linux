@@ -1,6 +1,0 @@
-# To create a directory: sudo useradd username -m
-
-To see which users we craete: cat /etc/passwd
-
-
-
