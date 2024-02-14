@@ -23,6 +23,8 @@ To create a directory/folder: mkdir directory-name
 
 To list directory name: ls
 
+To see files and folders: ls -l
+
 To check current loggedin user: whoami
 
 <img width="299" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/27eae193-7e30-4926-b66c-422cde596f41">
