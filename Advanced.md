@@ -28,7 +28,12 @@ To add user in a group: sudo usermod -aG groupname username
 To add multiple users in a single group: sudo gpasswd -M username1,username2 groupname **(Here -M overwrites the user)**
 
 <img width="469" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/148025e5-04f6-4db0-a379-be6e53790637">
+
 <img width="294" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/351d6a3e-07e5-4af8-864d-5de2c35336a8">
+
+
+
+
 
 
 
