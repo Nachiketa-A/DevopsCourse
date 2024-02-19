@@ -4,9 +4,9 @@ Git is version control system.
 
 There are two types of version control system(VCS)
 
-1.Distributed VCS
+1.Distributed VCS : Example of DVCS is GIThub
 
-2.Centralized VCS
+2.Centralized VCS : Example Banking domain 
 
 To make repository on linux: git init
 
