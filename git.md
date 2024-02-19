@@ -5,6 +5,7 @@ Git is version control system.
 There are two types of version control system(VCS)
 
 1.Distributed VCS
+
 2.Centralized VCS
 
 To make repository on linux: git init
