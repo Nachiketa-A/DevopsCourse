@@ -52,8 +52,11 @@ git commit -m "<your commit message>"
 ### Restore the file from being modified to Tracked
 
 git restore <filename>
-
 git checkout <filename>
+### To get new branch
+
+git checkout -b <filename>
+
 
 ### Show the status of your Git respository
 
