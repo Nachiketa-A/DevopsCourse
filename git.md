@@ -23,67 +23,86 @@ When we modify any file using git the changes remain unstaged so we again need t
 To get logs/history in git: git log(It wil show all the commits)
 
 
-Set global username and email for Git (Locally).
+### Set global username and email for Git (Locally).
 
 git config --global user.name "<your username>"
+
 git config --global user.email "<your email>"
 
-Initialise an empty Git Repository
+### Initialise an empty Git Repository
+
 git init
 
-Clone an existing Git Repository
+### Clone an existing Git Repository
+
 git clone <repository URL>
 
-Add file/stage to git
+### Add file/stage to git
+
 git add <filename>
 
-Add all the files to git
+### Add all the files to git
+
 git add .
 
-Commit all the staged files to git
+### Commit all the staged files to git
+
 git commit -m "<your commit message>"
 
-Restore the file from being modified to Tracked
+### Restore the file from being modified to Tracked
+
 git restore <filename>
 
 git checkout <filename>
 
-Show the status of your Git respository
+### Show the status of your Git respository
+
 git status
 
-Show the branches of your git repository
+### Show the branches of your git repository
+
 git branch
 
-Checkout to a new branch
+### Checkout to a new branch
+
 git checkout -b <branch name>
 
 
-Checkout to an existing branch
+### Checkout to an existing branch
+
 git checkout <branch name>
 
-Remove a branch from Git
+### Remove a branch from Git
+
 git branch -d <branch name>
 
-Show remote origin URL
+### Show remote origin URL
+
 git remote -v
 
-Add remote origin URL
+### Add remote origin URL
+
 git remote add origin <your remote git URL>
 
-Remove remote origin URL
+### Remove remote origin URL
+
 git remote remove origin 
 
 
-Fetch all the remote branches
+### Fetch all the remote branches
+
 git fetch
 
-Push your local changes to remote branch
+### Push your local changes to remote branch
+
 git push origin <branch name>
 
-Pull your remote changes to local branch
+### Pull your remote changes to local branch
+
 git pull origin <branch name>
 
-Check you git commits and logs
+### Check you git commits and logs
+
 git log
 
 
