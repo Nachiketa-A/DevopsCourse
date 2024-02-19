@@ -112,5 +112,15 @@ git pull origin <branch name>
 
 git log
 
+## If we use https to clone then we need to use https protocols for clone we can also clone through SSH.
+
+## To clone the repository using SSH we need to generate a key
+
+### To generate a key for SSh : ssh-keygen
+
+There will be 2 keys one is public key and another one is private key
+
+### We will enter public key on the repository where we need to connect. 
+
 
 
