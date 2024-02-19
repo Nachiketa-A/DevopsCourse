@@ -9,9 +9,11 @@ There are two types of version control system(VCS)
 2.Centralized VCS
 
 To make repository on linux: git init
+
 After entering this command one .git hidden folder gets created
 
 To know the status of created file in git via linux: git status
+
 To staged the file :git add filename.txt
 
 To unstage the file: git rm -- cached filename.txt or git restore --staged filename.txt
@@ -19,6 +21,7 @@ To unstage the file: git rm -- cached filename.txt or git restore --staged filen
 To commit: git commit -m "Message"
 
 To restore the file: git restore filename.txt
+
 When we modify any file using git the changes remain unstaged so we again need to staged that file
 
 To get logs/history in git: git log(It wil show all the commits)
