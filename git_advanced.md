@@ -8,6 +8,12 @@
 
 #### To get log in proper manner: git log --oneline
 
+#### To revert a commit: git revert commit_id
+
+#### To reset commit: git reset commit_id
+
+
+
 
 
 
