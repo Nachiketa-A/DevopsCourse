@@ -34,7 +34,13 @@ When client runs any server command on the docker client terminal the client ter
 
 **Docker Host**
 
-Docker host is use to providing an environment to execute and run applications. It contains the docker daemon,images,containers,networks and storage
+Docker host is use to providing an environment to execute and run applications. It contains the docker daemon,images,containers,networks and storage.
+
+**Docker Hub/Registry**
+
+Docker Registry manages and stores the docker images.
+
+
 
 
 ## Hypervisor
