@@ -40,3 +40,13 @@ then it get uploaded on docker  hub and get deploy.
 
 <img width="545" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/c1bd8bd3-31bd-4478-9798-c5db43e93962">
 
+### Commands
+
+**Jenkins run on port 8080**
+
+To check java is installed or not : java --version
+
+To check location of Java file: which java
+
+To check Jenkins is active or not: systemctl status jenkins
+
