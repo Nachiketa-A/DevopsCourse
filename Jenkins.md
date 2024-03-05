@@ -50,3 +50,18 @@ To check location of Java file: which java
 
 To check Jenkins is active or not: systemctl status jenkins
 
+To print something in shell scripting: echo "Text"
+
+To build code using docker: docker build . -t file_name:latest
+
+docker-compose up -d
+**Pipeline** Orchestrates long-running activities that can span multiple build agents. Suitable for building pipelines(formerly known as workflows) and/or organizing complex activities that do not easily fit in free-style job type.
+
+**Declarative Pipeline** We create declaractive pipeline using particular syntax like groovy scripting.
+
+## Groovy Scripting
+
+<img width="436" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/404bf867-823f-47ed-be15-46ec65da5861">
+
+
+<img width="303" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/bd8de351-cf99-4247-916b-d84d69216cae">
