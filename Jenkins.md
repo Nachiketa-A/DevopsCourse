@@ -70,6 +70,9 @@ docker-compose up -d
 
 **Credentials Binding**
 
+**QUIZ**
+
+
 **Q.Which plugin in Jenkins is essential to integrate version control systems like Git?**
   A : Git Plugin
 
