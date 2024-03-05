@@ -54,6 +54,8 @@ To print something in shell scripting: echo "Text"
 
 To build code using docker: docker build . -t file_name:latest
 
+To remove docker build images : docker rmi image_name
+
 docker-compose up -d
 **Pipeline** Orchestrates long-running activities that can span multiple build agents. Suitable for building pipelines(formerly known as workflows) and/or organizing complex activities that do not easily fit in free-style job type.
 
@@ -65,3 +67,39 @@ docker-compose up -d
 
 
 <img width="303" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/bd8de351-cf99-4247-916b-d84d69216cae">
+
+**Credentials Binding**
+
+**Q.Which plugin in Jenkins is essential to integrate version control systems like Git?**
+  A : Git Plugin
+
+**Q.Which file in a Jenkins project defines the build pipeline?**
+  A : Jenkinsfile
+
+**Q.Which scripting language is primarily used to define the structure and flow of Jenkins Declarative and Scripted Pipelines?**
+  A : Groovy
+
+**Q.Which of the following triggers a Jenkins job automatically when there is a code change in the source code repository?**
+  A : SCM Polling
+
+**Q.Which Jenkins feature allows for the temporary storage of secure environment variables, credentials amd other sensitive data, which can be accessed within a Jenkins pipeline?**
+  A : Jenkins credentials Binding
+
+**Q.Which plugin in Jenkins helps in checking the code quality?**
+  A : SonarQube Plugin
+
+**Q.Which directive in decalarative pipeline specifies where the pipeline should run?**
+  A : Agent
+
+**Q.What is blue ocean in Jenkins?**
+  A : A personalised and modern GUI for Jenkins.
+
+**Q.In Jenkins, a_______ is a series of task to be executed.**
+  A : Job
+
+**Q.If a Jenkins master fails, which of the following can directly take over job execution?**
+  A : None
+
+**Q.The primary reason reason to set up slaves in Jenkins is to**
+  A : offload
+  
