@@ -56,6 +56,8 @@ To build code using docker: docker build . -t file_name:latest
 
 To remove docker build images : docker rmi image_name
 
+To start jenkins automatically : sudo systemctl enable jenkins
+
 docker-compose up -d
 **Pipeline** Orchestrates long-running activities that can span multiple build agents. Suitable for building pipelines(formerly known as workflows) and/or organizing complex activities that do not easily fit in free-style job type.
 
@@ -106,3 +108,24 @@ docker-compose up -d
 **Q.The primary reason reason to set up slaves in Jenkins is to**
   A : offload
   
+
+### Jenkins Installation
+
+step 1: Install Java
+
+![image](https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/438355c7-2f1e-4051-818e-8c89272064ae)
+
+
+
+![image](https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/2fb06172-7905-4140-bbe7-bd748a5f2ea9)
+
+
+step 2: install JEnkins
+
+![image](https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/e9d0ada0-3d8d-40e7-8cbf-ca6797cad1c6)
+
+
+
+
+
+
