@@ -70,6 +70,8 @@ docker-compose up -d
 
 <img width="303" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/bd8de351-cf99-4247-916b-d84d69216cae">
 
+#### Groovy Script for CI/CD Pipeline with permissions:
+
 
 <img width="573" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/224bb11b-513b-4596-bd6f-d90ad6e1f1a7">
 
