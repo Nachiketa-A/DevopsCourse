@@ -70,6 +70,17 @@ docker-compose up -d
 
 <img width="303" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/bd8de351-cf99-4247-916b-d84d69216cae">
 
+
+<img width="573" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/224bb11b-513b-4596-bd6f-d90ad6e1f1a7">
+
+<img width="558" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/4323718f-abb8-49bd-bd90-74aa09ed4d76">
+
+
+<img width="553" alt="image" src="https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/627f1134-2492-411c-8bfe-a7b76cdb7ad1">
+
+
+
+
 **Credentials Binding**
 
 **QUIZ**
