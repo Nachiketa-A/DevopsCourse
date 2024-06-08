@@ -6,36 +6,8 @@ A Playbook is a YAML file that defines a series of actions to be executed on man
 
 #### Example
 
----
-- name: Update web servers
-  hosts: webservers
-  remote_user: root
+![image](https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/342f0360-5cc0-415f-a167-3e2d1b4f5dfa)
 
-  tasks:
-  - name: Ensure apache is at the latest version
-    ansible.builtin.yum:
-      name: httpd
-      state: latest
-
-  - name: Write the apache config file
-    ansible.builtin.template:
-      src: /srv/httpd.j2
-      dest: /etc/httpd.conf
-
-- name: Update db servers
-  hosts: databases
-  remote_user: root
-
-  tasks:
-  - name: Ensure postgresql is at the latest version
-    ansible.builtin.yum:
-      name: postgresql
-      state: latest
-
-  - name: Ensure that postgresql is started
-    ansible.builtin.service:
-      name: postgresql
-      state: started
 
 #### Play
 
@@ -43,13 +15,8 @@ A Play is a single, complete execution unit within a playbook. It specifies whic
 
 Plays are used to group related tasks and execute them in a specific order.
 
-- name: Install and configure Nginx
-  hosts: webservers
-  tasks:
-    - name: Install Nginx
-      apt:
-        name: nginx
-        state: present
+![image](https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/867883ae-2a4a-4e8a-822f-cb309a662169)
+
 
 #### Modules
 
@@ -59,12 +26,8 @@ or managing services.
 
 Example
 
-The apt module used in a task to install a package:
+![image](https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/66ec7002-9b6a-4383-9ebe-ff75a3adc90a)
 
-- name: Install Nginx
-  apt:
-    name: nginx
-    state: present
 
 #### Tasks
 
@@ -72,12 +35,5 @@ Tasks are individual actions within a play that use modules to perform operation
 
 loops, and handlers.
 
-- name: Install Nginx
-  apt:
-    name: nginx
-    state: present
+![image](https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/1f33ca71-39ad-4a64-bcd4-1215df90cde3)
 
-- name: Start Nginx service
-  service:
-    name: nginx
-    state: started
