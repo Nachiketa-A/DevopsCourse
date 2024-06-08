@@ -47,4 +47,9 @@ A collection structure might look like this:
 
 ![image](https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/6c6fc80b-f203-4d6b-a949-1d9c6d1bd297)
 
+#### Using a Collection
+
+![image](https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/2becd664-4111-4be8-9966-5970ca665cab)
+
+
 
