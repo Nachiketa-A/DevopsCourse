@@ -6,4 +6,4 @@ Roles help to encapsulate and modularize the logic and configuration needed to m
 
 This modular approach promotes reusability, maintainability, and consistency across different playbooks and environments.
 
-**To create roles we use command:ansible-galaxy role init test**
+**To create roles we use command**:"ansible-galaxy role init test"
