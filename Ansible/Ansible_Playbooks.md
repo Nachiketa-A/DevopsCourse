@@ -37,3 +37,14 @@ loops, and handlers.
 
 ![image](https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/1f33ca71-39ad-4a64-bcd4-1215df90cde3)
 
+#### Collections
+
+Collections are a distribution format for Ansible content. They bundle together multiple roles, modules, plugins, and other Ansible artifacts. Collections make it easier to 
+
+share and reuse Ansible content. Example
+
+A collection structure might look like this:
+
+![image](https://github.com/Nachiketa-A/DevopsCourse/assets/157089767/6c6fc80b-f203-4d6b-a949-1d9c6d1bd297)
+
+
